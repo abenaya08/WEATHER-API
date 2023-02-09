@@ -1,0 +1,20 @@
+<html>
+    <head>
+        <link rel="stylesheet" href="css.css">
+    </head>
+    <body>
+        <div class="abe">
+        <h1>Enter your city</h1><br>
+        </div>
+        <div class="imran">
+        <input type="text" id="city"/><br>
+        </div>
+        <br>
+        <div class="temp">
+        <button id="btn" onclick="displayresult()">SUBMIT</button>
+        </div>
+        <div class op>
+        <p id="output"></p>
+        <script src="js.js"></script>
+    </body>
+</html>
