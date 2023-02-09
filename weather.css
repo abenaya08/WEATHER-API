@@ -1,0 +1,16 @@
+body{
+    background-color: purple;
+}
+.abe{
+    display:flex;
+    justify-content: center;
+}
+.imran{
+    display:flex;
+    justify-content: center;
+}
+.temp{
+    display:flex;
+    justify-content: center;
+    align-items: center;
+}
